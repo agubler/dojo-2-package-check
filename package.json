@@ -1,0 +1,14 @@
+{
+  "name": "dojo-package-check",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "cli-table2": "^0.2.0",
+    "execa": "^0.9.0",
+    "npms-cli": "^1.6.0"
+  }
+}
